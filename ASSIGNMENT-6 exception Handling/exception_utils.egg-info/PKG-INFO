@@ -1,0 +1,6 @@
+Metadata-Version: 2.4
+Name: exception_utils
+Version: 1.0.0
+Summary: A modular framework for safe operations and data validation
+Author: Dhruv Jaiswal
+Requires-Python: >=3.8
