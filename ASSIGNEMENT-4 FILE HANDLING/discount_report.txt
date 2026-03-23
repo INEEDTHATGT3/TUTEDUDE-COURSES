@@ -1,0 +1,10 @@
+Product    	| Original Price 	| Discounted Price
+---------------------------------------------
+Mouse     	|	 5         	|	 1.65
+Keyboard  	|	 800       	|	 264.00
+Monitor   	|	 7000      	|	 2310.00
+Pendrive  	|	 400       	|	 132.00
+Camera    	|	 5000      	|	 1650.00
+---------------------------------------------
+Total Items: 5
+Average Discounted Price: 871.53 INR
