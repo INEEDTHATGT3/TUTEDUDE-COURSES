@@ -1,0 +1,10 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "exception_utils"
+version = "1.0.0"
+description = "A modular framework for safe operations and data validation"
+authors = [{name = "Dhruv Jaiswal"}]
+requires-python = ">=3.8"
