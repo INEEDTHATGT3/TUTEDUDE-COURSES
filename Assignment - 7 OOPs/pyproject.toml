@@ -1,0 +1,9 @@
+[project]
+name = "Assignment-7-OOPs-DhruvJaiswal"
+version = "0.1.0"
+description = "A modular Object-Oriented Inventory System for an electronics store."
+authors = [{name = "Dhruv Jaiswal"}]
+dependencies = []
+
+[tool.setuptools]
+packages = ["store_management"]
