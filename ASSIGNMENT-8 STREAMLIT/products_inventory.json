@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Chair",
+        "category": "Furniture",
+        "price": 400.0,
+        "month": "January"
+    },
+    {
+        "name": "laptop",
+        "category": "Electronics",
+        "price": 63000.56,
+        "month": "February"
+    },
+    {
+        "name": "baggy jeans",
+        "category": "Clothing",
+        "price": 1063.0,
+        "month": "March"
+    },
+    {
+        "name": "doodh",
+        "category": "Groceries",
+        "price": 780.0,
+        "month": "April"
+    }
+]

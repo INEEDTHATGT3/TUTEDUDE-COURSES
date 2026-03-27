@@ -1,0 +1,16 @@
+[theme]
+# Professional Earth-Tone / Mocha Palette
+primaryColor = "#795548"
+backgroundColor = "#FCF8F5"
+secondaryBackgroundColor = "#EFEBE9"
+textColor = "#3E2723"
+font = "sans serif"
+
+[server]
+headless = true
+enableCORS = false
+enableXsrfProtection = false
+
+[browser]
+gatherUsageStats = false
+
