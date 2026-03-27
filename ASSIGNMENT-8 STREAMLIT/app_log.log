@@ -1,0 +1,38 @@
+2026-03-24 17:58:11,216 - utils.persistence - INFO - Persisted product: booze
+2026-03-24 17:58:11,217 - __main__ - INFO - New Product Added - Name: booze, Cat: Groceries, Price: 980.0
+2026-03-24 17:58:39,015 - utils.persistence - INFO - Persisted product: study table
+2026-03-24 17:58:39,016 - __main__ - INFO - New Product Added - Name: study table, Cat: Furniture, Price: 980.0
+2026-03-25 09:04:33,494 - app_dashboard - INFO - Dashboard viewed for month: January
+2026-03-25 09:05:21,162 - app_dashboard - INFO - Dashboard viewed for month: April
+2026-03-25 09:08:47,569 - utils.persistence - INFO - Persisted product: Chair
+2026-03-25 09:08:47,570 - __main__ - INFO - New Product Added - Name: Chair, Cat: Furniture, Price: 400.0
+2026-03-25 09:09:23,020 - utils.persistence - INFO - Persisted product: laptop
+2026-03-25 09:09:23,021 - __main__ - INFO - New Product Added - Name: laptop, Cat: Electronics, Price: 63000.56
+2026-03-25 09:10:01,574 - utils.persistence - INFO - Persisted product: baggy jeans
+2026-03-25 09:10:01,575 - __main__ - INFO - New Product Added - Name: baggy jeans, Cat: Clothing, Price: 1063.0
+2026-03-25 09:12:09,564 - app_dashboard - INFO - Dashboard viewed for month: January
+2026-03-25 09:12:27,911 - app_dashboard - INFO - Dashboard viewed for month: February
+2026-03-25 09:30:29,330 - app_dashboard - INFO - Dashboard viewed for month: February
+2026-03-25 09:30:30,139 - app_dashboard - INFO - Dashboard viewed for month: February
+2026-03-25 09:30:30,257 - app_dashboard - INFO - Dashboard viewed for month: February
+2026-03-25 09:30:30,370 - app_dashboard - INFO - Dashboard viewed for month: February
+2026-03-25 09:30:33,822 - app_dashboard - INFO - Dashboard viewed for month: February
+2026-03-25 09:30:37,109 - app_dashboard - INFO - Dashboard viewed for month: January
+2026-03-25 09:31:59,004 - app_dashboard - INFO - Dashboard viewed for month: January
+2026-03-25 09:32:05,179 - app_dashboard - INFO - Dashboard viewed for month: February
+2026-03-25 09:32:21,060 - app_dashboard - INFO - Dashboard viewed for month: March
+2026-03-25 09:32:22,951 - app_dashboard - INFO - Dashboard viewed for month: April
+2026-03-25 09:33:30,190 - utils.persistence - INFO - Persisted product: doodh
+2026-03-25 09:33:30,191 - __main__ - INFO - New Product Added - Name: doodh, Cat: Groceries, Price: 780.0
+2026-03-27 06:13:14,707 - app_dashboard - INFO - Dashboard viewed for month: January
+2026-03-27 06:14:16,581 - app_dashboard - INFO - Dashboard viewed for month: February
+2026-03-27 06:14:38,354 - app_dashboard - INFO - Dashboard viewed for month: March
+2026-03-27 06:14:48,539 - app_dashboard - INFO - Dashboard viewed for month: April
+2026-03-27 06:55:46,215 - app_dashboard - INFO - Dashboard filtered for: January
+2026-03-27 06:55:57,622 - app_dashboard - INFO - Dashboard filtered for: February
+2026-03-27 07:31:50,742 - __main__ - INFO - Application title rendered.
+2026-03-27 07:31:59,651 - __main__ - INFO - Application title rendered.
+2026-03-27 07:31:59,746 - __main__ - INFO - Application title rendered.
+2026-03-27 07:31:59,747 - __main__ - INFO - Greeting successful for user: sam
+2026-03-27 07:36:33,663 - __main__ - INFO - Input : INR 50.0, Discount: 16%, Result: INR 42.0
+2026-03-27 11:01:12,612 - __main__ - INFO - Input : INR 89.0, Discount: 9%, Result: INR 80.99000000000001
