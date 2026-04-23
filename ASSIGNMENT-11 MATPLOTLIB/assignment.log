@@ -1,0 +1,119 @@
+2026-04-19 15:47:39,646 - INFO - Data aggregation for sales trend completed.
+2026-04-19 15:47:39,693 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-04-19 15:47:39,693 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-04-19 15:47:39,707 - INFO - Generating Line Plot for Sales Trend.
+2026-04-19 15:47:39,883 - INFO - Task 1: Line Plot completed successfully.
+2026-04-19 15:57:30,180 - INFO - Data aggregation for sales trend completed.
+2026-04-19 15:57:30,186 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-04-19 15:57:30,186 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-04-19 15:57:30,294 - INFO - Task 1: Line Plot completed successfully.
+2026-04-19 16:05:33,685 - INFO - Data cleaned for Scatter Plot. Total records: 558799
+2026-04-19 16:27:06,658 - INFO - Data cleaned for Scatter Plot. Total records: 558799
+2026-04-19 16:27:07,332 - INFO - Task 2: Scatter Plot completed successfully.
+2026-04-19 16:34:44,051 - INFO - Data cleaned for Scatter Plot. Total records: 558799
+2026-04-19 16:34:47,118 - INFO - Task 2: Scatter Plot completed successfully.
+2026-04-19 16:35:39,310 - INFO - Data cleaned for Scatter Plot. Total records: 558799
+2026-04-19 16:35:41,929 - INFO - Task 2: Scatter Plot completed successfully.
+2026-04-19 16:56:44,861 - INFO - Top brands identified: ['Ford', 'Chevrolet', 'Nissan', 'Toyota', 'Dodge', 'Honda', 'Hyundai', 'BMW', 'Kia', 'Chrysler']
+2026-04-19 16:56:44,861 - INFO - Top body types identified: ['Sedan', 'SUV', 'sedan', 'suv', 'Hatchback', 'Minivan', 'Coupe', 'Wagon', 'Crew Cab', 'Convertible']
+2026-04-19 16:56:44,888 - INFO - Vertical bar chart for Brand Liquidity generated.
+2026-04-19 16:56:44,966 - INFO - Horizontal bar chart for Lifestyle Trends generated.
+2026-04-19 16:56:45,044 - INFO - Task 3: Bar Plots completed successfully.
+2026-04-19 18:10:16,195 - INFO - Data aggregation for sales trend completed.
+2026-04-19 18:10:16,231 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-04-19 18:10:16,231 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-04-19 18:10:16,356 - INFO - Task 1: Line Plot completed successfully.
+2026-04-19 18:10:16,469 - INFO - Data cleaned for Scatter Plot. Total records: 558799
+2026-04-19 18:10:19,201 - INFO - Task 2: Scatter Plot completed successfully.
+2026-04-19 18:10:19,305 - INFO - Top brands identified: ['Ford', 'Chevrolet', 'Nissan', 'Toyota', 'Dodge', 'Honda', 'Hyundai', 'BMW', 'Kia', 'Chrysler']
+2026-04-19 18:10:19,306 - INFO - Top body types identified: ['Sedan', 'SUV', 'sedan', 'suv', 'Hatchback', 'Minivan', 'Coupe', 'Wagon', 'Crew Cab', 'Convertible']
+2026-04-19 18:10:19,338 - INFO - Vertical bar chart for Brand Liquidity generated.
+2026-04-19 18:10:19,405 - INFO - Horizontal bar chart for Lifestyle Trends generated.
+2026-04-19 18:10:19,490 - INFO - Task 3: Bar Plots completed successfully.
+2026-04-19 18:10:19,555 - INFO - Resilience data prepared for brands: ['Ford', 'Chevrolet', 'Kia', 'Dodge', 'Nissan']
+2026-04-19 18:10:51,182 - INFO - data prepared for brands: ['Ford', 'Chevrolet', 'Kia', 'Dodge', 'Nissan', 'Toyota', 'Chrysler', 'Jeep', 'Hyundai', 'BMW']
+2026-04-19 18:11:44,115 - INFO - data prepared for brands: ['Ford', 'Chevrolet', 'Kia', 'Dodge', 'Nissan']
+2026-04-20 02:28:35,613 - INFO - Data aggregation for sales trend completed.
+2026-04-20 02:28:35,652 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-04-20 02:28:35,654 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-04-20 02:28:35,795 - INFO - Task 1: Line Plot completed successfully.
+2026-04-20 02:28:35,895 - INFO - Data cleaned for Scatter Plot. Total records: 558799
+2026-04-20 02:28:38,561 - INFO - Task 2: Scatter Plot completed successfully.
+2026-04-20 02:28:38,644 - INFO - Top brands identified: ['Ford', 'Chevrolet', 'Nissan', 'Toyota', 'Dodge', 'Honda', 'Hyundai', 'BMW', 'Kia', 'Chrysler']
+2026-04-20 02:28:38,645 - INFO - Top body types identified: ['Sedan', 'SUV', 'sedan', 'suv', 'Hatchback', 'Minivan', 'Coupe', 'Wagon', 'Crew Cab', 'Convertible']
+2026-04-20 02:28:38,660 - INFO - Vertical bar chart for Brand Liquidity generated.
+2026-04-20 02:28:38,733 - INFO - Horizontal bar chart for Lifestyle Trends generated.
+2026-04-20 02:28:38,801 - INFO - Task 3: Bar Plots completed successfully.
+2026-04-20 02:28:38,867 - INFO - data prepared for brands: ['Ford', 'Chevrolet', 'Kia', 'Dodge', 'Nissan']
+2026-04-20 02:28:38,933 - INFO - Multiple bar plot construction for Brand Resilience completed.
+2026-04-20 02:28:38,934 - INFO - Rendering Multiple Bar Plot for stakeholder review.
+2026-04-20 02:28:39,051 - INFO - Task 4: Multiple Bar Plot completed successfully.
+2026-04-20 02:33:39,002 - INFO - data prepared for brands: ['Ford', 'Chevrolet', 'Kia', 'Dodge', 'Nissan']
+2026-04-20 02:33:39,015 - INFO - Multiple bar plot construction for Brand Resilience completed.
+2026-04-20 02:33:39,016 - INFO - Rendering Multiple Bar Plot for stakeholder review.
+2026-04-20 02:33:39,124 - INFO - Task 4: Multiple Bar Plot completed successfully.
+2026-04-20 02:51:08,954 - INFO - Value Erosion matrix prepared. Brackets: ['Budget (<10k)', 'Standard (10k-25k)', 'Luxury (>25k)'], Conditions: [1.0, 2.0, 3.0, 4.0, 5.0, 11.0, 12.0, 13.0, 14.0, 15.0, 16.0, 17.0, 18.0, 19.0, 21.0, 22.0, 23.0, 24.0, 25.0, 26.0, 27.0, 28.0, 29.0, 31.0, 32.0, 33.0, 34.0, 35.0, 36.0, 37.0, 38.0, 39.0, 41.0, 42.0, 43.0, 44.0, 45.0, 46.0, 47.0, 48.0, 49.0]
+2026-04-20 02:51:09,014 - INFO - Stacked bar chart for Value Erosion constructed successfully.
+2026-04-20 02:51:09,014 - INFO - Rendering Stacked Bar Chart for stakeholder review.
+2026-04-20 02:51:09,217 - INFO - Task 5: Stacked Bar Chart completed successfully. Ready for Task 6.
+2026-04-20 03:05:21,646 - INFO - Custom bins for Price and Condition ranges applied successfully.
+2026-04-20 03:06:29,345 - INFO - Custom bins for Price and Condition ranges applied successfully.
+2026-04-20 03:08:36,749 - INFO - Custom bins for Price and Condition ranges applied successfully.
+2026-04-20 03:15:28,491 - INFO - Data successfully binned into 3 Price Brackets and 3 Condition Ranges.
+2026-04-20 03:15:28,506 - INFO - Stacked bar chart construction for Value Erosion completed.
+2026-04-20 03:15:28,507 - INFO - Rendering Stacked Bar Chart for stakeholder review.
+2026-04-20 03:15:28,608 - INFO - Task 5: Stacked Bar Chart (Revised Ranges) completed successfully.
+2026-04-20 03:35:20,194 - INFO - Data successfully binned into 3 Price Brackets and 3 Condition Ranges.
+2026-04-20 03:35:20,208 - INFO - Stacked bar chart construction for Value Erosion completed.
+2026-04-20 03:35:20,291 - INFO - Task 5: Stacked Bar Chart (Revised Ranges) completed successfully.
+2026-04-20 03:38:53,619 - INFO - Data successfully binned into 3 Price Brackets and 3 Condition Ranges.
+2026-04-20 03:38:53,637 - INFO - Stacked bar chart construction for Value Erosion completed.
+2026-04-20 03:38:53,741 - INFO - Task 5: Stacked Bar Chart (Revised Ranges) completed successfully.
+2026-04-20 08:48:22,019 - INFO - Data aggregation for sales trend completed.
+2026-04-20 08:48:22,057 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-04-20 08:48:22,059 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-04-20 08:48:22,199 - INFO - Task 1: Line Plot completed successfully.
+2026-04-20 08:48:22,322 - INFO - Data cleaned for Scatter Plot. Total records: 558799
+2026-04-20 08:48:25,166 - INFO - Task 2: Scatter Plot completed successfully.
+2026-04-20 08:48:25,277 - INFO - Top brands identified: ['Ford', 'Chevrolet', 'Nissan', 'Toyota', 'Dodge', 'Honda', 'Hyundai', 'BMW', 'Kia', 'Chrysler']
+2026-04-20 08:48:25,279 - INFO - Top body types identified: ['Sedan', 'SUV', 'sedan', 'suv', 'Hatchback', 'Minivan', 'Coupe', 'Wagon', 'Crew Cab', 'Convertible']
+2026-04-20 08:48:25,296 - INFO - Vertical bar chart for Brand Liquidity generated.
+2026-04-20 08:48:25,378 - INFO - Horizontal bar chart for Lifestyle Trends generated.
+2026-04-20 08:48:25,471 - INFO - Task 3: Bar Plots completed successfully.
+2026-04-20 08:48:25,569 - INFO - data prepared for brands: ['Ford', 'Chevrolet', 'Kia', 'Dodge', 'Nissan']
+2026-04-20 08:48:25,594 - INFO - Multiple bar plot construction for Brand Resilience completed.
+2026-04-20 08:48:25,815 - INFO - Task 4: Multiple Bar Plot completed successfully.
+2026-04-20 08:48:25,950 - INFO - Data successfully binned into 3 Price Brackets and 3 Condition Ranges.
+2026-04-20 08:48:25,965 - INFO - Stacked bar chart construction for Value Erosion completed.
+2026-04-20 08:48:26,055 - INFO - Task 5: Stacked Bar Chart (Revised Ranges) completed successfully.
+2026-04-20 08:48:26,089 - INFO - Data prepared for Histogram. Range: 1.0 to 230000.0. Bins: 40
+2026-04-20 08:48:26,173 - INFO - Histogram construction completed. Peak identified at approximately USD 5750.
+2026-04-20 08:48:26,427 - INFO - Task 6: Histogram completed successfully
+2026-04-20 08:49:11,042 - INFO - Histogram construction completed. Peak identified at approximately USD 5750.
+2026-04-20 08:49:11,142 - INFO - Task 6: Histogram completed successfully
+2026-04-20 09:22:06,335 - INFO - Market share data prepared. Top brand: Ford with 93554 units.
+2026-04-20 09:22:06,361 - INFO - Pie chart construction for Portfolio Risk completed.
+2026-04-20 09:22:06,439 - INFO - Task 7: Pie Chart completed. All 7 tasks in Window 1 are now finished.
+2026-04-20 09:24:45,406 - INFO - Data aggregation for sales trend completed.
+2026-04-20 09:24:45,439 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-04-20 09:24:45,441 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-04-20 09:24:45,690 - INFO - Task 1: Line Plot completed successfully.
+2026-04-20 09:24:45,884 - INFO - Data cleaned for Scatter Plot. Total records: 558799
+2026-04-20 09:24:49,253 - INFO - Task 2: Scatter Plot completed successfully.
+2026-04-20 09:24:49,349 - INFO - Top brands identified: ['Ford', 'Chevrolet', 'Nissan', 'Toyota', 'Dodge', 'Honda', 'Hyundai', 'BMW', 'Kia', 'Chrysler']
+2026-04-20 09:24:49,350 - INFO - Top body types identified: ['Sedan', 'SUV', 'sedan', 'suv', 'Hatchback', 'Minivan', 'Coupe', 'Wagon', 'Crew Cab', 'Convertible']
+2026-04-20 09:24:49,375 - INFO - Vertical bar chart for Brand Liquidity generated.
+2026-04-20 09:24:49,490 - INFO - Horizontal bar chart for Lifestyle Trends generated.
+2026-04-20 09:24:49,603 - INFO - Task 3: Bar Plots completed successfully.
+2026-04-20 09:24:49,668 - INFO - data prepared for brands: ['Ford', 'Chevrolet', 'Kia', 'Dodge', 'Nissan']
+2026-04-20 09:24:49,688 - INFO - Multiple bar plot construction for Brand Resilience completed.
+2026-04-20 09:24:49,838 - INFO - Task 4: Multiple Bar Plot completed successfully.
+2026-04-20 09:24:50,034 - INFO - Data successfully binned into 3 Price Brackets and 3 Condition Ranges.
+2026-04-20 09:24:50,050 - INFO - Stacked bar chart construction for Value Erosion completed.
+2026-04-20 09:24:50,180 - INFO - Task 5: Stacked Bar Chart (Revised Ranges) completed successfully.
+2026-04-20 09:24:50,211 - INFO - Data prepared for Histogram. Range: 1.0 to 230000.0. Bins: 40
+2026-04-20 09:24:50,283 - INFO - Histogram construction completed. Peak identified at approximately USD 5750.
+2026-04-20 09:24:50,435 - INFO - Task 6: Histogram completed successfully
+2026-04-20 09:24:50,509 - INFO - Market share data prepared. Top brand: Ford with 93554 units.
+2026-04-20 09:24:50,573 - INFO - Pie chart construction for Portfolio Risk completed.
+2026-04-20 09:24:50,692 - INFO - Task 7: Pie Chart completed. All 7 tasks in Window 1 are now finished.
